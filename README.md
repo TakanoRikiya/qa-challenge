@@ -44,4 +44,4 @@ Informe ao recrutador quando concluir o desafio junto com o link do repositório
 
 O Candidato que não tiver enviado até a data limite e horario, será desclassificado.
 
-Boa prova.
+Boa prova!
